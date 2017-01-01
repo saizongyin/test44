@@ -5,4 +5,5 @@ package com.example.administrator.test44;
  */
 public class View4 {
     private String name = "hahaaha";
+    private String haha = "haha";
 }
